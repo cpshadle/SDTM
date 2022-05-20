@@ -1,4 +1,4 @@
 ## SDTM
 
-[back to Conformance Rules] (https://cpshadle.github.io/)
+[back to Conformance Rules](https://cpshadle.github.io/)
 
